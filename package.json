@@ -1,0 +1,8 @@
+{
+  "name": "yashwanth-profile-site",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "scripts": {
+    "test": "echo 'No test specified'"
+  }
+}
